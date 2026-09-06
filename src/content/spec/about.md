@@ -1,9 +1,25 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好，我是风起。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+一名软件工程师，喜欢折腾计算机和读书，会花时间研究一些自己感兴趣但未必有什么实际用途的东西。
+
+这里是我的个人博客 **Fuuki**。
+
+# 💻 关于本站
+
+本站基于 **Astro** 构建，并以 **Fuwari** 为基础逐步改造而来。
+
+网站采用纯静态架构，不依赖独立后端或数据库。整体设计尽量保持简单，功能主要围绕内容组织、文章检索和阅读体验展开。
+
+# 🍃 关于 Fuuki
+
+**Fuuki（風起）**，取自“风起”。
+
+这个名字既代表这个博客，也代表我会长期维护和完善的这个小项目。
+
+相比于不断增加功能，我更希望 Fuuki 能够长期存在下去。把文章整理好，让阅读本身舒服一点，就已经足够了。
+
+**如果这里恰好有一些东西对你有帮助，或者让你产生了一点共鸣，那就很好。**
+
+**欢迎来成为我的凝视者。**
